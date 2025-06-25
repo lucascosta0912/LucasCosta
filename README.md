@@ -1,4 +1,4 @@
-# Lucas Costa CV
+
 <p align="center">
   <img src="assets.everspringpartners.jpg" alt="Kali Linux Logo" width="300"/>
 </p>
